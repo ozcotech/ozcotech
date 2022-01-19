@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozcomtech
+- 👋 Hi, I’m @ozcotech
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning java,python, flutter and web programming.
 - 💞️ I’m looking to collaborate on java and flutter.
