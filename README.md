@@ -10,7 +10,7 @@
 - ⚡ Fun fact: i am beginner.
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="26px" src="file:///C:/Users/win%208/Desktop/JavaProjects/javaicon.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
