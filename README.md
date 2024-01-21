@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with finding a job while I finish up my apps.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas.
 - 📫 How to reach me: ozcotech
-- 😄 Age: 41
+- 😄 Age: 43
 - ⚡ Fun fact: i am beginner.
 ### Languages and Tools:
 
