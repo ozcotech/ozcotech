@@ -26,8 +26,9 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and buildin
 <br />
 
 ---
+
 ### 🛠️ Current Focus:
-```markdown
+
 - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 - ![Java](https://img.shields.io/badge/Java-Learning-orange)
 ---
