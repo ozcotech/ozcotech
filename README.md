@@ -63,7 +63,7 @@ I'm always open to learning and growing. If you:
 ### 📬 Let's Connect:
 You can reach me through:
 - **GitHub:** [ozcotech](https://github.com/ozcotech)
-- **Email:** maybelater
+- **Email:** info@ozco.studio
 
 ---
 
