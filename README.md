@@ -77,10 +77,10 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and buildin
 
 ---
 ### 🌟 Featured Projects:
-- **[Denklem - Mediation Fee Calculator](https://github.com/ozcotech/DENKLEM):** A comprehensive Python-based app to calculate mediation fees. Currently adding English language support, voice-over accessibility features for visually impaired users, and planning to implement liquid glass UI design in early 2026.
+- **[Denklem - Mediation Fee Calculator](https://github.com/ozcotech/DENKLEM):** A comprehensive React Native mobile app to calculate mediation fees. Currently adding English language support, voice-over accessibility features for visually impaired users, and planning to implement liquid glass UI design in early 2026.
 - **[Portfolio Website](https://github.com/ozcotech/ozco.studio):** My personal portfolio website showcasing my projects and skills.
-- **Barber Appointment System:** Developing a mobile application for barber shop appointment management (upcoming project).
 - **Swift iOS Applications:** Learning and developing native iOS applications using Swift.
+- **Barber Appointment System:** Developing a mobile application for barber shop appointment management (upcoming project).
 ---
 
 ### 💡 How You Can Help:
