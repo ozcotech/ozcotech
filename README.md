@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and buildin
         <a href="https://ozco.studio">ozco.studio</a>
       </td>
       <td align="center" width="33%">
-        <a href="https://denklem.org" target="_blank">
+        <a href="https://denklem.org/en" target="_blank">
           <img src="denklem-web-screen.png" alt="Denklem Website" width="250"/>
         </a>
         <br/>
         <strong>Denklem Website</strong>
         <br/>
-        <a href="https://denklem.org">denklem.org</a>
+        <a href="https://denklem.org/en">denklem.org</a>
       </td>
       <td align="center" width="33%">
         <a href="https://apps.apple.com/tr/app/denklem/id6746580824" target="_blank">
