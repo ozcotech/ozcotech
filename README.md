@@ -53,7 +53,9 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and buildin
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;"/>
 <img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:15px;"/>
 <img align="left" alt="Xcode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="OpenAI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" style="padding-right:15px;"/>
+<img align="left" alt="ChatGPT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" style="padding-right:15px;"/>
+<img align="left" alt="Claude AI" width="40px" src="https://claude.ai/images/claude_app_icon.png" style="padding-right:15px;"/>
+<img align="left" alt="Google Gemini" width="40px" src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" style="padding-right:15px;"/>
 
 <br />
 <br />
@@ -68,7 +70,7 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and buildin
 ---
 
 ### 🚀 Current Goals:
-- Build real-world applications in Python, Java, and Flutter.
+- Build real-world applications in Python, Swift.
 - Learn and master GitHub for version control and collaboration.
 - Connect with like-minded individuals who are willing to share their knowledge and experience.
 - **Create open-source and free projects that benefit humanity.**
@@ -76,7 +78,7 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and buildin
 ---
 ### 🌟 Featured Projects:
 - **[Denklem - Mediation Fee Calculator](https://github.com/ozcotech/DENKLEM):** A comprehensive Python-based app to calculate mediation fees. Currently adding English language support, voice-over accessibility features for visually impaired users, and planning to implement liquid glass UI design in early 2026.
-- **[Portfolio Website](https://ozco.studio):** My personal portfolio website showcasing my projects and skills.
+- **[Portfolio Website](https://github.com/ozcotech/ozco.studio):** My personal portfolio website showcasing my projects and skills.
 - **Barber Appointment System:** Developing a mobile application for barber shop appointment management (upcoming project).
 - **Swift iOS Applications:** Learning and developing native iOS applications using Swift.
 ---
