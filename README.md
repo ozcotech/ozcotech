@@ -8,15 +8,6 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and buildin
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://ozco.studio" target="_blank">
-          <img src="portfolio-screen.png" alt="Portfolio Website" width="250"/>
-        </a>
-        <br/>
-        <strong>Portfolio Website</strong>
-        <br/>
-        <a href="https://ozco.studio">ozco.studio</a>
-      </td>
-      <td align="center" width="33%">
         <a href="https://denklem.org/en" target="_blank">
           <img src="denklem-web-screen.png" alt="Denklem Website" width="250"/>
         </a>
@@ -100,7 +91,7 @@ I'm always open to learning and growing. If you:
 ### 📬 Let's Connect:
 You can reach me through:
 - **GitHub:** [ozcotech](https://github.com/ozcotech)
-- **Email:** info@ozco.studio
+- **Email:** info@denklem.org
 
 ---
 
