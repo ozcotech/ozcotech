@@ -15,7 +15,7 @@
 
 ### About
 
-I'm a practicing lawyer and mediator based in Turkey. After years of manually calculating mediation fees and navigating fragmented legal tools, I decided to build what the profession needed — starting with **Denklem**.
+I'm a practicing lawyer and mediator based in Türkiye. After years of manually calculating mediation fees and navigating fragmented legal tools, I decided to build what the profession needed — starting with **Denklem**.
 
 I'm not a career developer. I'm a domain expert who writes code to solve real problems in the legal field. Everything I build is **free, open-source, ad-free, and collects zero user data**.
 
