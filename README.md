@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://denklem.org/en"><img src="https://img.shields.io/badge/denklem.org-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Denklem" /></a>
-  <a href="mailto:info@denklem.org"><img src="https://img.shields.io/badge/info@denklem.org-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
