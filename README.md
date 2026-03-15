@@ -1,102 +1,80 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Lawyer+%7C+Mediator+%7C+Open-Source+Builder" alt="Typing SVG" />
+</h1>
 
-Welcome to my GitHub profile! I'm on an exciting journey of learning and building software applications. Check out my work:
+<p align="center">
+  <em>15+ years in law. 8+ years in mediation. Now building the tools I wish existed.</em>
+</p>
 
-### 🚀 My Projects & Websites
+<p align="center">
+  <a href="https://denklem.org/en"><img src="https://img.shields.io/badge/denklem.org-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Denklem" /></a>
+  <a href="mailto:info@denklem.org"><img src="https://img.shields.io/badge/info@denklem.org-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### About
+
+I'm a practicing lawyer and mediator based in Turkey. After years of manually calculating mediation fees and navigating fragmented legal tools, I decided to build what the profession needed — starting with **Denklem**.
+
+I'm not a career developer. I'm a domain expert who writes code to solve real problems in the legal field. Everything I build is **free, open-source, ad-free, and collects zero user data**.
+
+---
+
+### Denklem — Mediation Fee Calculator
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://denklem.org/en" target="_blank">
-          <img src="denklem-web-screen.png" alt="Denklem Website" width="250"/>
-        </a>
-        <br/>
-        <strong>Denklem Website</strong>
-        <br/>
-        <a href="https://denklem.org/en">denklem.org</a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://apps.apple.com/tr/app/denklem/id6746580824" target="_blank">
-          <img src="denklem-app-screen.png" alt="Denklem App" width="250"/>
-        </a>
-        <br/>
-        <strong>Denklem App</strong>
-        <br/>
-        <a href="https://apps.apple.com/tr/app/denklem/id6746580824">App Store</a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://apps.apple.com/tr/app/denklem/id6746580824">
+    <img src="denklem-app-screen.png" alt="Denklem App" width="280"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://apps.apple.com/tr/app/denklem/id6746580824"><img src="https://img.shields.io/badge/App_Store-Live-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
+  <a href="https://github.com/ozcotech/DENKLEM"><img src="https://img.shields.io/badge/Source-MIT_License-22c55e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://denklem.org/en"><img src="https://img.shields.io/badge/Web-denklem.org-58A6FF?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+</div>
+
+<br/>
+
+A native iOS app for Turkish lawyers and mediators to calculate official mediation fees instantly.
+
+- **Built with** Swift & SwiftUI
+- **Multi-language** — Turkish, English, Swedish
+- **Privacy-first** — No analytics, no tracking, no ads
+- **Open-source** — MIT licensed, contributions welcome
+
+> *Built by a mediator, for mediators.*
+
+---
+
+### Built With
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+</p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozcotech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcotech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ozcotech&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌟 Languages and Tools I Use:
-
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="Swift" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="Xcode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:15px;"/>
-<img align="left" alt="ChatGPT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" style="padding-right:15px;"/>
-<img align="left" alt="Claude AI" width="40px" src="https://claude.ai/images/claude_app_icon.png" style="padding-right:15px;"/>
-<img align="left" alt="Google Gemini" width="40px" src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" style="padding-right:15px;"/>
-
-<br />
-<br />
-<br />
-
----
-
-### 🛠️ Current Focus:
-
-- ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-- ![Swift](https://img.shields.io/badge/Swift-Learning-orange)
----
-
-### 🚀 Current Goals:
-- Build real-world applications in Python, Swift.
-- Learn and master GitHub for version control and collaboration.
-- Connect with like-minded individuals who are willing to share their knowledge and experience.
-- **Create open-source and free projects that benefit humanity.**
-
----
-### 🌟 Featured Projects:
-- **[Denklem - Mediation Fee Calculator](https://github.com/ozcotech/Denklem-SwiftUI):** A comprehensive React Native mobile app to calculate mediation fees. Currently adding English language support, voice-over accessibility features for visually impaired users, and planning to implement liquid glass UI design in early 2026.
-- **Swift iOS Applications:** Learning and developing native iOS applications using Swift.
-- **Barber Appointment System:** Developing a mobile application for barber shop appointment management (upcoming project).
----
-
-### 💡 How You Can Help:
-I'm always open to learning and growing. If you:
-- Have advice, tips, or mentorship to offer, I'd love to hear from you.
-- Are interested in collaborating on projects, let's connect.
-- Can share resources or guidance, feel free to reach out.
-
----
-### 📊 GitHub Stats:
-
-![OzcoTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozcotech&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcotech&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
-
-### 📬 Let's Connect:
-You can reach me through:
-- **GitHub:** [ozcotech](https://github.com/ozcotech)
-- **Email:** info@denklem.org
-
----
-
-### ✨ Fun Fact:
-Did you know? The first computer programmer was Ada Lovelace in the 19th century!
-
----
-
-Thank you for visiting my profile! 😊 Let's create something amazing together! ✨
+<p align="center">
+  <em>"I saw a problem in my profession. I built the solution. I made it free."</em>
+</p>
