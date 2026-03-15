@@ -24,9 +24,28 @@ I'm not a career developer. I'm a domain expert who writes code to solve real pr
 ### Denklem — Mediation Fee Calculator
 
 <div align="center">
-  <a href="https://apps.apple.com/tr/app/denklem/id6746580824">
-    <img src="denklem-app-screen.png" alt="Denklem App" width="280"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://denklem.org/en">
+          <img src="denklem-web-screen.png" alt="Denklem Website" width="280"/>
+        </a>
+        <br/>
+        <strong>Denklem Website</strong>
+        <br/>
+        <a href="https://denklem.org/en">denklem.org</a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://apps.apple.com/tr/app/denklem/id6746580824">
+          <img src="start-screen.png" alt="Denklem App" width="280"/>
+        </a>
+        <br/>
+        <strong>Denklem App</strong>
+        <br/>
+        <a href="https://apps.apple.com/tr/app/denklem/id6746580824">App Store</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
