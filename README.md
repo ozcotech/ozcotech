@@ -13,59 +13,34 @@
 
 ---
 
-### About
-
-I'm a practicing lawyer and mediator based in Türkiye. After years of manually calculating mediation fees and navigating fragmented legal tools, I decided to build what the profession needed — starting with **Denklem**.
-
-I'm not a career developer. I'm a domain expert who writes code to solve real problems in the legal field. Everything I build is **free, open-source, ad-free, and collects zero user data**.
-
----
-
-### Denklem — Mediation Fee Calculator
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://denklem.org/en">
-          <img src="denklem-web-screen.png" alt="Denklem Website" width="280"/>
-        </a>
-        <br/>
-        <strong>Denklem Website</strong>
-        <br/>
-        <a href="https://denklem.org/en">denklem.org</a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://apps.apple.com/tr/app/denklem/id6746580824">
-          <img src="start-screen.png" alt="Denklem App" width="280"/>
-        </a>
-        <br/>
-        <strong>Denklem App</strong>
-        <br/>
-        <a href="https://apps.apple.com/tr/app/denklem/id6746580824">App Store</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://apps.apple.com/tr/app/denklem/id6746580824"><img src="https://img.shields.io/badge/App_Store-Live-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
-  <a href="https://github.com/ozcotech/DENKLEM"><img src="https://img.shields.io/badge/Source-MIT_License-22c55e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://denklem.org/en"><img src="https://img.shields.io/badge/Web-denklem.org-58A6FF?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
-</div>
-
-<br/>
-
-A native iOS app for Turkish lawyers and mediators to calculate official mediation fees instantly.
-
-- **Built with** Swift & SwiftUI
-- **Multi-language** — Turkish, English, Swedish
-- **Privacy-first** — No analytics, no tracking, no ads
-- **Open-source** — MIT licensed, contributions welcome
-
-> *Built by a mediator, for mediators.*
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>About</h3>
+      <p>I'm a practicing lawyer and mediator based in Türkiye. After years of manually calculating mediation fees and navigating fragmented legal tools, I decided to build what the profession needed — starting with <strong>Denklem</strong>.</p>
+      <p>I'm not a career developer. I'm a domain expert who writes code to solve real problems in the legal field. Everything I build is <strong>free, open-source, ad-free, and collects zero user data</strong>.</p>
+      <h3>Denklem — Mediation Fee Calculator</h3>
+      <p>
+        <a href="https://apps.apple.com/tr/app/denklem/id6746580824"><img src="https://img.shields.io/badge/App_Store-Live-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
+        <a href="https://github.com/ozcotech/DENKLEM"><img src="https://img.shields.io/badge/Source-MIT_License-22c55e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://denklem.org/en"><img src="https://img.shields.io/badge/Web-denklem.org-58A6FF?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+      </p>
+      <p>A native iOS app for Turkish lawyers and mediators to calculate official mediation fees instantly.</p>
+      <ul>
+        <li><strong>Built with</strong> Swift & SwiftUI</li>
+        <li><strong>Multi-language</strong> — Turkish, English, Swedish</li>
+        <li><strong>Privacy-first</strong> — No analytics, no tracking, no ads</li>
+        <li><strong>Open-source</strong> — MIT licensed, contributions welcome</li>
+      </ul>
+      <blockquote><em>Built by a mediator, for mediators.</em></blockquote>
+    </td>
+    <td align="center" valign="middle" width="45%">
+      <a href="https://apps.apple.com/tr/app/denklem/id6746580824">
+        <img src="start-screen.png" alt="Denklem App" width="280"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
